@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.presentation.sign_in
+package com.googlecompose.googlesigncompose.presentation.sign_in
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow

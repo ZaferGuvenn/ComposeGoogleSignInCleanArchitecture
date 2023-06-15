@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.presentation.sign_in
+package com.googlecompose.googlesigncompose.presentation.sign_in
 
 import android.widget.Toast
 import androidx.compose.foundation.layout.Box

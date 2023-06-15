@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.ui.theme
+package com.googlecompose.googlesigncompose.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

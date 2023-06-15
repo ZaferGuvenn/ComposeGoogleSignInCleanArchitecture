@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.plcoding.composegooglesignincleanarchitecture'
+    namespace 'com.googlecompose.googlesigncompose'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.plcoding.composegooglesignincleanarchitecture"
+        applicationId "com.googlecompose.googlesigncompose"
         minSdk 24
         targetSdk 33
         versionCode 1

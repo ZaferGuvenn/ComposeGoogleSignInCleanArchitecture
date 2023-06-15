@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.presentation.profile
+package com.googlecompose.googlesigncompose.presentation.profile
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.CircleShape
@@ -14,7 +14,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
-import com.plcoding.composegooglesignincleanarchitecture.presentation.sign_in.UserData
+import com.googlecompose.googlesigncompose.presentation.sign_in.UserData
 
 @Composable
 fun ProfileScreen(

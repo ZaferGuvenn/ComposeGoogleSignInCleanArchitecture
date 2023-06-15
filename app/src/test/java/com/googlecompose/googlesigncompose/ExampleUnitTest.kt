@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture
+package com.googlecompose.googlesigncompose
 
 import org.junit.Test
 

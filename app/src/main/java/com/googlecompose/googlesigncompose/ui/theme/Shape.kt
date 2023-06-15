@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.ui.theme
+package com.googlecompose.googlesigncompose.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

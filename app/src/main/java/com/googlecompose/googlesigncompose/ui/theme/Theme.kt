@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.ui.theme
+package com.googlecompose.googlesigncompose.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -28,7 +28,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun ComposeGoogleSignInCleanArchitectureTheme(
+fun googlesigncomposeTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable () -> Unit
 ) {

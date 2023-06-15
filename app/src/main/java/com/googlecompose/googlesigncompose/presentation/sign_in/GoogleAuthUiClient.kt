@@ -1,4 +1,4 @@
-package com.plcoding.composegooglesignincleanarchitecture.presentation.sign_in
+package com.googlecompose.googlesigncompose.presentation.sign_in
 
 import android.content.Context
 import android.content.Intent
@@ -9,7 +9,7 @@ import com.google.android.gms.auth.api.identity.SignInClient
 import com.google.firebase.auth.GoogleAuthProvider
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
-import com.plcoding.composegooglesignincleanarchitecture.R
+import com.googlecompose.googlesigncompose.R
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.tasks.await
 
